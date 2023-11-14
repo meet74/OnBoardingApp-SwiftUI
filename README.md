@@ -5,7 +5,7 @@ OnBoardingApp is a SwiftUI-based iOS app that provides an engaging onboarding ex
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
